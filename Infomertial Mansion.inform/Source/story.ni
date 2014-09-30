@@ -1,0 +1,5 @@
+"Infomertial Mansion" by Ty Shimabukuro
+
+When play begins: say "Infomertial mansion, home to semifamous comercial celebrity and inventor Marty Jay. Seeing as you are Marty's Manager's personal unpaid intern, it's now your job to find Marty ,who has uncharacteristically not shown up for the debut of his newest product, the walking trashcan. As you enter the mansion, the buttler Louies informs you of the situation. Creepy stuff has been happening around the mansion following the invention of the walking trashcan. Perhaps Marty's genious had gotten the better of him. Whatever the case. Louies bids you adue as he leaves on a conveniently timed vacation. You are now alone to explore infomercial mansion in your search to find Marty, or are you?"
+
+The foyer is a room. "The foyer is the main room of the mansion. "
