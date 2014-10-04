@@ -1,9 +1,22 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x8e33480" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x59d4b0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x8e33480" />
-  <item nodeId="node-0x8e33480">
+  <activeNode nodeId="node-0x59d4b0" />
+  <item nodeId="node-0x59d4b0">
     <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Infomertial mansion, home to semifamous comercial celebrity and inventor Marty Jay. Seeing as you are Marty&apos;s Manager&apos;s personal unpaid intern, it&apos;s now your job to find Marty ,who has uncharacteristically not shown up for the debut of his newest product, the walking trashcan. As you enter the mansion, the buttler Louies informs you of the situation. Creepy stuff has been happening around the mansion following the invention of the walking trashcan. Perhaps Marty&apos;s genious had gotten the better of him. Whatever the case. Louies bids you adue as he leaves on a conveniently timed trip to quibic to eat crescents. You somehow doubt he is actually french. You are now alone to explore infomercial mansion in your search to find Marty, or are you?
+
+Infomertial Mansion
+An Interactive Fiction by Ty Shimabukuro
+Release 1 / Serial number 141001 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+foyer
+The foyer is the main room of the mansion. The foyer is normally used for parties and dances, although it&apos;s empty right now. The centerpiece of the room, the Martyagra falls, although terribly named, commands respect as it thunders down from the second floor. Another Marty trademark, the Marty Jay jumbo sized bonsai tree in a pot sits by the door. Stairs wrap around the waterfall, leading to the second floor. To the west is Marty&apos;s room, and to the east is the lab.
+
+&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
